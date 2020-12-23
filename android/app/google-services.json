@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292793722964",
+    "firebase_url": "https://rise-30c93.firebaseio.com",
+    "project_id": "rise-30c93",
+    "storage_bucket": "rise-30c93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292793722964:android:f27feb836fc80b1b82e5c1",
+        "android_client_info": {
+          "package_name": "com.neo.the_rise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292793722964-ejl3mqhci7ap0nu27ldfjlj3vd4a4lvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm833Z6wJbRkTYPUAXcMcsDdbhrYwvYHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292793722964-ejl3mqhci7ap0nu27ldfjlj3vd4a4lvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
